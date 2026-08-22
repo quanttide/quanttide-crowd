@@ -1,0 +1,18 @@
+[submodule "apps/qtcloud-crowd"]
+	path = apps/qtcloud-crowd
+	url = https://github.com/quanttide/qtcloud-crowd.git
+[submodule "packages/quanttide-crowd-toolkit"]
+	path = packages/quanttide-crowd-toolkit
+	url = https://github.com/quanttide/quanttide-crowd-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-crowdsourcing-management.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-crowdsourcing-management.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-crowdsourcing-management.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-crowdsourcing-management.git
