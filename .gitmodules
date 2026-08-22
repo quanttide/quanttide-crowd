@@ -19,6 +19,3 @@
 [submodule "apps/qtcrowd"]
 	path = apps/qtcrowd
 	url = https://github.com/quanttide/qtcrowd.git
-[submodule "apps/qtrecurit"]
-	path = apps/qtrecurit
-	url = https://github.com/quanttide/qtrecurit.git
