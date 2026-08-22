@@ -16,3 +16,6 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-crowdsourcing-management.git
+[submodule "apps/qtcrowd"]
+	path = apps/qtcrowd
+	url = https://github.com/quanttide/qtcrowd.git

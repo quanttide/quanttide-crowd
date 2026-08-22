@@ -14,6 +14,7 @@
 
 - 注册子模块：`apps/qtcloud-crowd`、`packages/quanttide-crowd-toolkit`、`examples/default`
 - 注册子模块：`data/context`、`data/journal`、`data/intention`
+- 注册子模块：`apps/qtcrowd`（量潮众包平台，与 quanttide-tech/apps 共用）
 
 ## [0.1.0] - 2026-08-21
 
