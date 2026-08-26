@@ -1,6 +1,4 @@
-# quanttide-crowd
-
-量潮众包管理
+# 量潮众包管理（`quanttide-crowd`）
 
 ## 概述
 
