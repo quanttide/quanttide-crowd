@@ -23,3 +23,12 @@
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-crowd-sourcing.git
 	branch = main
+[submodule "data/roadmap"]
+	path = data/roadmap
+	url = https://github.com/quanttide/quanttide-roadmap-of-crowd-sourcing.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-crowd-sourcing.git
+[submodule "data/brochure"]
+	path = data/brochure
+	url = https://github.com/quanttide/quanttide-brochure-of-crowd-sourcing.git

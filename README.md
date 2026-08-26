@@ -28,6 +28,9 @@
 | `data/journal` | 众包管理日志 (git submodule → quanttide-journal-of-crowd-sourcing) |
 | `data/intention` | 众包管理意图 (git submodule → quanttide-intention-of-crowd-sourcing) |
 | `data/profile` | 众包管理画像 (git submodule → quanttide-profile-of-crowd-sourcing) |
+| `data/roadmap` | 众包管理路线图 (git submodule → quanttide-roadmap-of-crowd-sourcing) |
+| `data/insight` | 众包管理洞察 (git submodule → quanttide-insight-of-crowd-sourcing) |
+| `data/brochure` | 众包管理宣传册 (git submodule → quanttide-brochure-of-crowd-sourcing) |
 
 ## 许可
 
