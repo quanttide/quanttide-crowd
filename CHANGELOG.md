@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-crowd-lab`（仓 quanttide-laboratory-of-crowdsourcing-management → quanttide-crowd-lab）
+
+
 ### 新增
 
 - 注册子模块：`apps/qtcloud-crowd`、`packages/quanttide-crowd-toolkit`、`examples/default`

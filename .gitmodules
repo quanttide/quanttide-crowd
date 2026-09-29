@@ -4,9 +4,9 @@
 [submodule "packages/quanttide-crowd-toolkit"]
 	path = packages/quanttide-crowd-toolkit
 	url = https://github.com/quanttide/quanttide-crowd-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-crowdsourcing-management.git
+[submodule "examples/quanttide-crowd-lab"]
+	path = examples/quanttide-crowd-lab
+	url = https://github.com/quanttide/quanttide-crowd-lab.git
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-crowd-sourcing.git
