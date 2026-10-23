@@ -20,7 +20,7 @@
 |------|------|
 | `apps/qtcloud-crowd` | QtCloud 众包管理云 (git submodule) |
 | `apps/qtcrowd` | 量潮众包平台 (git submodule → qtcrowd，与 quanttide-tech/apps 共用) |
-| `packages/quanttide-crowd-toolkit` | 众包管理工具集 (git submodule) |
+| `packages/quanttide-crowd-toolkit` | 众包管理标准库 (git submodule) |
 | `examples/quanttide-crowd-lab` | 众包管理实验室 (git submodule → quanttide-crowd-lab) |
 | `data/context` | 众包管理语境 (git submodule → quanttide-context-of-crowd-sourcing) |
 | `data/journal` | 众包管理日志 (git submodule → quanttide-journal-of-crowd-sourcing) |
