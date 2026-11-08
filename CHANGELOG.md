@@ -13,10 +13,12 @@
 ### 变更
 
 - 实验室子模块改名：`examples/default` → `examples/quanttide-crowd-lab`（仓 quanttide-laboratory-of-crowdsourcing-management → quanttide-crowd-lab）
+- 众包任务书全部下线：`data/profile` 六篇档案删除，正文迁移至 qtclass lite（`src/lite/data/tasks`），`apps/qtcrowd` 任务清单清空（0 任务）
 
 
 ### 新增
 
+- 注册子模块：`apps/qtclass`（量潮课堂，quanttide/qtclass）
 - 注册子模块：`apps/qtcloud-crowd`、`packages/quanttide-crowd-toolkit`、`examples/default`
 - 注册子模块：`data/context`、`data/journal`、`data/intention`
 - 注册子模块：`apps/qtcrowd`（量潮众包平台，与 quanttide-tech/apps 共用）

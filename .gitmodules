@@ -32,3 +32,6 @@
 [submodule "data/brochure"]
 	path = data/brochure
 	url = https://github.com/quanttide/quanttide-brochure-of-crowd-sourcing.git
+[submodule "apps/qtclass"]
+	path = apps/qtclass
+	url = https://github.com/quanttide/qtclass.git
