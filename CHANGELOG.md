@@ -24,6 +24,10 @@
 - 注册子模块：`apps/qtcrowd`（量潮众包平台，与 quanttide-tech/apps 共用）
 - 注册子模块：`data/roadmap`、`data/insight`、`data/brochure`（众包管理路线图/洞察/宣传册）
 
+### 移除
+
+- 子模块 `apps/qtcrowd`（量潮众包平台网站仓）：站点任务书下线、与 `data/profile` 解耦后不再挂载；仓库保留在 quanttide/qtcrowd（另挂 defaults/quanttide-alliance、categories/quanttide-platform）
+
 ## [0.1.0] - 2026-08-21
 
 ### 新增
