@@ -13,7 +13,7 @@
 ### 变更
 
 - 实验室子模块改名：`examples/default` → `examples/quanttide-crowd-lab`（仓 quanttide-laboratory-of-crowdsourcing-management → quanttide-crowd-lab）
-- 众包任务书全部下线：`data/profile` 六篇档案删除，正文迁移至 qtclass lite（`src/lite/data/tasks`），`apps/qtcrowd` 任务清单清空（0 任务）
+- 众包任务书下线站点、集中入档并上线 qtclass lite：`apps/qtcrowd` 站点任务清单清空（0 任务，站点与档案解耦、移除 `data:sync`），`data/profile` 为事实源——六篇业务线任务书保留，集中 learn 十篇、academy 三篇，lite 任务书 12 → 19 篇
 
 
 ### 新增
