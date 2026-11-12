@@ -18,6 +18,8 @@
 
 ### 新增
 
+- 贸大招聘宣传合作实践任务入档并上线课堂 lite 0.1.6，更新 profile 与 qtclass 子模块引用。
+
 - 注册子模块：`apps/qtclass`（量潮课堂，quanttide/qtclass）
 - 注册子模块：`apps/qtcloud-crowd`、`packages/quanttide-crowd-toolkit`、`examples/default`
 - 注册子模块：`data/context`、`data/journal`、`data/intention`
